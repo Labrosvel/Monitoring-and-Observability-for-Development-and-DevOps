@@ -6,3 +6,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Introduction to Monitoring
 - Types of Monitoring
 - Golden Signals of Monitoring (Latency, Traffic, Errors, Saturation)
+
+### Objectives of Monitoring
+- Difference between Monitoring and Evaluation
+- Components of a Monitoring System
+- Types of Metrics in a Monitoring System
+- Importance of Monitoring  
