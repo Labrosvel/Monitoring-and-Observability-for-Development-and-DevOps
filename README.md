@@ -5,4 +5,4 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ### Monitoring Basics
 - Introduction to Monitoring
 - Types of Monitoring
-- Golden Signals of Monitoring
+- Golden Signals of Monitoring (Latency, Traffic, Errors, Saturation)
