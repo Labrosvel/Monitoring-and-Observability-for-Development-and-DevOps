@@ -11,4 +11,18 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Difference between Monitoring and Evaluation
 - Components of a Monitoring System (Metrics, Observability, Alerting)
 - Types of Metrics in a Monitoring System
-- Importance of Monitoring  
+- Importance of Monitoring
+
+## Monitoring Systems and Techniques
+### Implementing Monitoring
+- Introduction to Synthetic Monitoring
+- Tools of Synthetic Monitoring
+- Introduction to Application Monitoring 
+- Introduction to Prometheus
+- Lab 2a: Monitoring in Action with Prometheus
+- Choosing the Right Application Monitoring Tool
+- Introduction to Grafana
+- Lab 2b: Configuring and Visualizing Metrics with Prometheus and Grafana
+### Monitoring Techniques
+- Using Visualization in Monitoring
+- Alerting in Monitoring
