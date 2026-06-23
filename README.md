@@ -9,6 +9,6 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
 ### Objectives of Monitoring
 - Difference between Monitoring and Evaluation
-- Components of a Monitoring System
+- Components of a Monitoring System (Metrics, Observability, Alerting)
 - Types of Metrics in a Monitoring System
 - Importance of Monitoring  
