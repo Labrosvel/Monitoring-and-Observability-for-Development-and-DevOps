@@ -25,4 +25,4 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Lab 2b: Configuring and Visualizing Metrics with Prometheus and Grafana
 ### Monitoring Techniques
 - Using Visualization in Monitoring
-- Alerting in Monitoring
+- Alerting in Monitoring (Metric, Log, Activity Log, Smart detection)
