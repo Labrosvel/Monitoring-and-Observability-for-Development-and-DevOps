@@ -20,7 +20,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Introduction to Application Monitoring 
 - Introduction to Prometheus
 - Lab 2a: Monitoring in Action with Prometheus
-- Choosing the Right Application Monitoring Tool
+- Choosing the Right Application Monitoring Tool (Performance, Availability, Error, Log & UX Monitoring)
 - Introduction to Grafana
 - Lab 2b: Configuring and Visualizing Metrics with Prometheus and Grafana
 ### Monitoring Techniques
