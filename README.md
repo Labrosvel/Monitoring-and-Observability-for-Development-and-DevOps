@@ -26,3 +26,19 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ### Monitoring Techniques
 - Using Visualization in Monitoring
 - Alerting in Monitoring (Metric, Log, Activity Log, Smart detection)
+
+## Methodologies and Tools in Logging
+### Logging
+- Introduction to Logging  
+- Log Monitoring Tools
+- Distributed Logging and Tracing
+### Logging Implementation
+- Implementing Logging 
+- Log Storage 
+- Lab3a: Analyze HTTP Logs
+### Introduction to Mezmo
+- Mezmo Overview and Demo Video
+- Lab3b: Create a Parsing Template using Mezmo
+
+
+
