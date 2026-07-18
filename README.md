@@ -49,6 +49,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Introduction to Sampling
 - IBM Instana Overview and Demo Video
 - Lab 4a: Observability in Action with Instana (Sandbox)
+- Reading 4a: Future of IT Operations – Leveraging Observability for Self-Healing
 ### Tracing using Open Telemetry
 - Introduction to Telemetry 
 - Telemetry and Tracing Tools 
