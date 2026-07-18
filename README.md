@@ -30,7 +30,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## Methodologies and Tools in Logging
 ### Logging
 - Introduction to Logging  
-- Log Monitoring Tools
+- Log Monitoring Tools (Mezmo, Sumo Logic, Instana, Datadog)
 - Distributed Logging and Tracing
 ### Logging Implementation
 - Implementing Logging 
