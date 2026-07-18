@@ -1,7 +1,7 @@
 # Monitoring-and-Observability-for-Development-and-DevOps
 https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops?specialization=devops-and-software-engineering
 
-## Introduction to Monitoring for Applications
+## Module 1: Introduction to Monitoring for Applications
 ### Monitoring Basics
 - Introduction to Monitoring
 - Types of Monitoring
@@ -13,7 +13,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Types of Metrics in a Monitoring System
 - Importance of Monitoring
 
-## Monitoring Systems and Techniques
+## Module 2: Monitoring Systems and Techniques
 ### Implementing Monitoring
 - Introduction to Synthetic Monitoring
 - Tools of Synthetic Monitoring
@@ -27,7 +27,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Using Visualization in Monitoring
 - Alerting in Monitoring (Metric, Log, Activity Log, Smart detection)
 
-## Methodologies and Tools in Logging
+## Module 3: Methodologies and Tools in Logging
 ### Logging
 - Introduction to Logging  
 - Log Monitoring Tools (Mezmo, Sumo Logic, Instana, Datadog)
