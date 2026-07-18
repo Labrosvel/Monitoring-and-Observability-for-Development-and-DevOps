@@ -40,5 +40,22 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Mezmo Overview and Demo Video
 - Lab3b: Create a Parsing Template using Mezmo
 
+## Module 4: Observability and Concepts
+### Observability
+- What is Observability?
+- The 3 Pillars of Observability 
+- Cloud Native Observability
+- Cloud Native Observability Tools
+- Introduction to Sampling
+- IBM Instana Overview and Demo Video
+- Lab 4a: Observability in Action with Instana (Sandbox)
+### Tracing using Open Telemetry
+- Introduction to Telemetry 
+- Telemetry and Tracing Tools 
+- Lab 4b: Automated Instrumentation with OpenTelemetry 
+### Monitoring Containers
+- Tracing for Container-Based Applications 
+- Lab 4c: Kubernetes Configuration for Tracing
+
 
 
