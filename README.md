@@ -45,7 +45,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - What is Observability?
 - The 3 Pillars of Observability (logs, metrics, traces)
 - Cloud Native Observability
-- Cloud Native Observability Tools
+- Cloud Native Observability Tools (Prometheus, Jaeger, Fluentd, Thanos, Datadog, New Relic, AWS CloudWatch, Instana, Mezmo)
 - Introduction to Sampling
 - IBM Instana Overview and Demo Video
 - Lab 4a: Observability in Action with Instana (Sandbox)
