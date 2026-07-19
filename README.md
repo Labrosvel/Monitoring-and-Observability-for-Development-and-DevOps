@@ -43,7 +43,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## Module 4: Observability and Concepts
 ### Observability
 - What is Observability?
-- The 3 Pillars of Observability 
+- The 3 Pillars of Observability (logs, metrics, traces)
 - Cloud Native Observability
 - Cloud Native Observability Tools
 - Introduction to Sampling
