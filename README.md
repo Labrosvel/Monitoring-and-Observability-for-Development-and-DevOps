@@ -52,7 +52,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Reading 4a: Future of IT Operations – Leveraging Observability for Self-Healing
 ### Tracing using Open Telemetry
 - Introduction to Telemetry 
-- Telemetry and Tracing Tools 
+- Telemetry and Tracing Tools (Datadog, Dynatrace, New Relic, Sumo Logic, Instana, Atatus, Jaeger, Zipkin)
 - Lab 4b: Automated Instrumentation with OpenTelemetry 
 ### Monitoring Containers
 - Tracing for Container-Based Applications 
