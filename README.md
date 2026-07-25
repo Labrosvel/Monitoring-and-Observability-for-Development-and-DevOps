@@ -3,7 +3,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
 ## Module 1: Introduction to Monitoring for Applications
 - Introduction to Monitoring
-- Types of Monitoring
+- Types of Monitoring (System, Dependency, Integration, Web performance, Business Activity, Application Performance, Real User, Security Monitoring)
 - Golden Signals of Monitoring (Latency, Traffic, Errors, Saturation)
 - Difference between Monitoring and Evaluation
 - Components of a Monitoring System (Metrics, Observability, Alerting)
